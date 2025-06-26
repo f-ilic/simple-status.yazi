@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-ya pkg add f-ilic/plugins:simple-status
+ya pkg add f-ilic/simple-status
 ```
 
 ## Usage
