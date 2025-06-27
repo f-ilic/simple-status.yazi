@@ -1,6 +1,6 @@
 # simple-status.yazi
 
-![simple-status](todo)
+![simple-status](simple-status.png)
 
 ## Installation
 
